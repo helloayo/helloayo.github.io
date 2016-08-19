@@ -1,0 +1,72 @@
+-
+ title: eBay Email and Site Development
+ directory: ebay
+ preview:
+  filename: ebay.png
+  original: ebay.png
+  sizes:
+  - ebay.png
+  thumbnail: ebay_thumb.png
+-
+ title: Junior Achievement App 
+ directory: ja
+ preview:
+  filename: intro.jpg
+  original: intro.jpg
+  sizes:
+  - intro.jpg
+  thumbnail: intro_thumb.png
+-
+ title: Dupont Site Overhaul
+ directory: dupont
+ preview:
+  filename: dupont
+  original: dupont.png
+  sizes:
+  - dupont.png
+  thumbnail: dupont_thumb.png  
+-
+ title: Fletcher McLaurin PLLC
+ directory: FMP
+ preview:
+  filename: fmp
+  original: fmp.png
+  sizes:
+  - fmp.png
+  thumbnail: fmp_thumb.png
+-
+ title: Rush
+ directory: Rush
+ preview:
+  filename: rush
+  original: rush.png
+  sizes:
+  - rush.png
+  thumbnail: rush_thumb.png
+-
+ title: At Their Side
+ directory: at-their-side
+ preview:
+  filename: ATS
+  original: ATS.png
+  sizes:
+  - ATS.png
+  thumbnail: ATS_thumb.png
+-
+ title: Logo and Business Card Design
+ directory: sr
+ preview:
+  filename: sr
+  original: sr_thumb.jpg
+  sizes:
+  - sr.jpg
+  thumbnail: sr.jpg 
+-
+ title: Adrian and Steven
+ directory: Adj
+ preview:
+  filename: Adj
+  original: Adj.jpg
+  sizes:
+  - Adj.jpg
+  thumbnail: Adj_thumb.jpg

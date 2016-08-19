@@ -1,11 +1,16 @@
 ---
-layout: page
-title: About
+layout: about
+title: Hi!
+header: Hi!
+subheader:  Nice to meet you.
 permalink: /about/
+class: about
+menu: main
+weight: 10
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, my name is Ayo Suber. I am a front-end developer, graphic designer, photographer, and writer. I also throw some great parties. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I've worked on many projects, large and small, with teams around the world.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[Talk to me](mailto:hireayo@gmail.com) at hireayo@gmail.com or follow me anywhere @helloayo.

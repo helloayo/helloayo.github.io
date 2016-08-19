@@ -1,0 +1,21 @@
+---
+layout: default
+support: [jquery, gallery]
+---
+
+<section class="post">
+<div class="content">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.header }}</h1>
+        {% if page.subheader %}
+    <h2 class="post-subtitle">{{page.subheader}}</h2>
+      {% endif %}
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+</section>
