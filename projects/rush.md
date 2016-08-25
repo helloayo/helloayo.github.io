@@ -13,4 +13,4 @@ This was a fun and interesting project to work on, as it gave me an opportuinity
 
 <!--{% include gallery-layout.html gallery=site.data.galleries.at-their-side %}-->
 
-![Rush](/assets/img/projects/Rush/rush.png)
+![Rush](/assets/img/projects/rush/rush.png)

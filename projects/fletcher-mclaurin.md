@@ -15,4 +15,4 @@ The challenge of this project was creating a design that was traditional yet bol
 
 <!--{% include gallery-layout.html gallery=site.data.galleries.at-their-side %}-->
 
-![Fletcher McLaurin, PLLC](/assets/img/projects/FMP/fmp.png)
+![Fletcher McLaurin, PLLC](/assets/img/projects/fletcher-mclaurin/fmp.png)

@@ -17,4 +17,4 @@ See the functionality of the drag and drop quiz I created [here.](http://htmlpre
 
 <!--{% include gallery-layout.html gallery=site.data.galleries.at-their-side %}-->
 
-![Junior Achievement](/assets/img/projects/ja/intro.jpg)
+![Junior Achievement](/assets/img/projects/junior-achievement/intro.jpg)

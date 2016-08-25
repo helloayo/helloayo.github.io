@@ -13,8 +13,8 @@ My favorite part of this project was creating a simplified map to the venue for 
 
 <!--{% include gallery-layout.html gallery=site.data.galleries.at-their-side %}-->
 
-![Adrian and Steven](/assets/img/projects/Adj/Adj.jpg)
+![Adrian and Steven](/assets/img/projects/adrian-steven/Adj.jpg)
 
 
 
-![Adrian and Steven](/assets/img/projects/Adj/rsvp.jpg)
+![Adrian and Steven](/assets/img/projects/adrian-steven/rsvp.jpg)

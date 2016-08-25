@@ -2,16 +2,16 @@
  title: eBay Email and Site Development
  directory: ebay
  preview:
-  filename: ebay.png
+  filename: ebay
   original: ebay.png
   sizes:
   - ebay.png
   thumbnail: ebay_thumb.png
 -
  title: Junior Achievement App 
- directory: ja
+ directory: junior-achievement
  preview:
-  filename: intro.jpg
+  filename: intro
   original: intro.jpg
   sizes:
   - intro.jpg
@@ -27,7 +27,7 @@
   thumbnail: dupont_thumb.png  
 -
  title: Fletcher McLaurin PLLC
- directory: FMP
+ directory: fletcher-mclaurin
  preview:
   filename: fmp
   original: fmp.png
@@ -36,7 +36,7 @@
   thumbnail: fmp_thumb.png
 -
  title: Rush
- directory: Rush
+ directory: rush
  preview:
   filename: rush
   original: rush.png
@@ -63,7 +63,7 @@
   thumbnail: sr.jpg 
 -
  title: Adrian and Steven
- directory: Adj
+ directory: adrian-steven
  preview:
   filename: Adj
   original: Adj.jpg
