@@ -13,4 +13,4 @@ Hi, my name is Ayo Suber. I am a front-end developer, graphic designer, photogra
 
 I've worked on many projects, large and small, with teams around the world.
 
-[Talk to me](mailto:hireayo@gmail.com) at hireayo@gmail.com or follow me anywhere @helloayo.
+[Talk to me](mailto:hi@helloayo.com) at hi@helloayo.com or follow me anywhere @helloayo.
