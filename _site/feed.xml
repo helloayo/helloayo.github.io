@@ -4,19 +4,19 @@
     <title>Hello Ayo</title>
     <description>The portfolio site of Ayo Suber.
 </description>
-    <link>helloayo.com/</link>
-    <atom:link href="helloayo.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Sep 2016 20:44:08 -0700</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 20:44:08 -0700</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Jan 2018 11:34:43 -0800</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2018 11:34:43 -0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Test</title>
         <description>&lt;p&gt;TEST&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Aug 2016 06:05:10 -0700</pubDate>
-        <link>helloayo.com/jekyll/update/2016/08/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">helloayo.com/jekyll/update/2016/08/05/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/08/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/08/05/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
